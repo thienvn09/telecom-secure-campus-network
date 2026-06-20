@@ -25,11 +25,11 @@ Dự án được thực hiện với mục tiêu mô phỏng một hệ thống
 
 ### Sơ đồ logic
 
-![Logical Topology](topology/logical-topology.png)
+![Logical Topology](./Topology/logical-topology.png)
 
 ### Sơ đồ triển khai trên PNETLab
 
-![PNETLab Topology](topology/pnetlab-topology.png)
+![PNETLab Topology](./Topology/pnetlab-topology.png)
 
 ---
 
